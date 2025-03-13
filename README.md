@@ -36,9 +36,17 @@ Explore crime prediction models for proactive prevention.
 Provide actionable insights for law enforcement, policymakers, and urban developers.
 
 **Tools & Technologies**
-Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium, Scikit-learn)
-Jupyter Notebook for analysis
-Power BI / Tableau (Optional for advanced visualization)
+Visualization:
+Power BI
+
+Data Processing:
+Python (Pandas)
+
+Data Storage:
+CSV Files and PostgreSQL Database
+
+Version Control:
+Git & GitHub
 
 **Expected Outcomes**
 Comprehensive crime reports & visualizations
@@ -46,3 +54,14 @@ Crime hotspot maps for better policing strategies
 Trend analysis to optimize law enforcement resource allocation
 Actionable insights for urban planning and crime prevention
 
+**Datasets:**
+
+**Before Cleaned:**
+https://drive.google.com/file/d/15lxiXxkYNMjMJaKQ1EDPtliiW7zVaTuI/view?usp=drive_link
+
+**After Cleaned:**
+https://drive.google.com/file/d/1tELvannMUTGxCo9rSGIuXFm_RKoofWZI/view?usp=drive_link
+
+Power BI Dashboard
+View Here:
+https://drive.google.com/file/d/1QbzhsenffCYla1wI-R2a9uSLZOxaFSga/view?usp=drive_link
